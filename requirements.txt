@@ -1,0 +1,9 @@
+jupyter
+pandas
+cassandra-driver
+numpy
+boto3
+matplotlib
+ipython-sql
+psycopg2-binary
+
